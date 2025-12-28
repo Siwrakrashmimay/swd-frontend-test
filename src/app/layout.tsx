@@ -6,8 +6,8 @@ import "@/styles/layout-style.module.scss";
 import { useEffect } from "react";
 import { Provider } from "react-redux";
 
-import Providers from "./providers";       
-import AntdProvider from "./antd-provider"; 
+import Providers from "../provider/providers";       
+import AntdProvider from "../provider/antd-provider"; 
 import { store } from "@/store";               
 
 export default function RootLayout({
