@@ -1,0 +1,89 @@
+{
+  "test1": "แบบทดสอบที่ 1",
+  "layoutStyle": "การจัดการหน้าเว็บ",
+  "test2": "แบบทดสอบที่ 2",
+  "connectApi": "เชื่อมต่อ API",
+  "test3": "แบบทดสอบที่ 3",
+  "formTable": "การจัดการหน้าฟอร์ม",
+  "moveShape": "เลื่อนรูปแบบ",
+  "movePosition": "เปลี่ยนตำแหน่ง",
+  "submit": "บันทึก",
+  "reset": "ล้างค่า",
+  "delete": "ลบ",
+  "edit": "แก้ไข",
+  "home": "หน้าหลัก",
+  "formTitle": "การจัดการหน้าฟอร์ม",
+  "title": "คำนำหน้า",
+  "firstname": "ชื่อจริง",
+  "lastname": "นามสกุล",
+  "birthday": "วันเกิด",
+  "nationality": "สัญชาติ",
+  "citizenId": "เลขบัตรประชาชน",
+  "gender": "เพศ",
+  "male": "ชาย",
+  "female": "หญิง",
+  "unsex": "ไม่ระบุ",
+  "mobilePhone": "เบอร์โทรศัพท์",
+  "passport": "เลขพาสปอร์ต",
+  "salary": "เงินเดือนที่คาดหวัง",
+  "title_mr": "นาย",
+  "title_mrs": "นาง",
+  "title_ms": "นางสาว",
+  "nationality_th": "ไทย",
+  "nationality_us": "อเมริกัน",
+  "please_select": "กรุณาเลือก",
+  "title_placeholder": "คำนำหน้า",
+  "date_placeholder": "ปี/เดือน/วัน",
+    "modal": {
+    "create_success_title": "บันทึกข้อมูลสำเร็จ",
+    "create_success_content": "เพิ่มข้อมูลใหม่เรียบร้อยแล้ว",
+
+    "update_success_title": "แก้ไขข้อมูลสำเร็จ",
+    "update_success_content": "ข้อมูลถูกอัปเดตเรียบร้อยแล้ว",
+
+    "delete_confirm_title": "ยืนยันการลบข้อมูล",
+    "delete_confirm_single": "คุณต้องการลบข้อมูลนี้ใช่หรือไม่?",
+    "delete_confirm_many": "คุณต้องการลบข้อมูล {{count}} รายการใช่หรือไม่?",
+
+    "delete_success_title": "ลบข้อมูลสำเร็จ",
+    "delete_success_content": "ข้อมูลถูกลบเรียบร้อยแล้ว",
+
+    "ok": "ตกลง",
+    "cancel": "ยกเลิก",
+    "delete": "ลบ",
+    "delete_all": "ลบทั้งหมด"
+  },
+  "table": {
+    "name": "ชื่อ-นามสกุล",
+    "gender": "เพศ",
+    "mobile": "โทรศัพท์มือถือ",
+    "nationality": "สัญชาติ",
+    "manage": "จัดการ",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "select_all": "เลือกทั้งหมด"
+  },
+  
+  "gender_table": {
+    "Male": "ชาย",
+    "Female": "หญิง",
+    "Unsex": "ไม่ระบุเพศ"
+  },
+  "title_table": {
+    "Mr": "นาย",
+    "Mrs": "นาง",
+    "Ms": "นางสาว"
+},
+  "nationality_tabl": {
+    "Thai": "ไทย",
+    "American": "อเมริกัน"
+  },
+    "validation": {
+    "salary_required": "กรุณากรอกเงินเดือน",
+    "salary_number_only": "กรุณากรอกตัวเลขเท่านั้น",
+    "mobile_required": "กรุณากรอกเบอร์โทรศัพท์",
+    "mobile_number_only": "กรุณากรอกตัวเลขเท่านั้น",
+    "passport_number_only": "กรุณากรอกตัวเลขเท่านั้น"
+  }
+  
+}

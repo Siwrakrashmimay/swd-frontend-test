@@ -1,0 +1,86 @@
+{
+  "test1": "Test 1",
+  "layoutStyle": "Layout & Style",
+  "test2": "Test 2",
+  "connectApi": "Connect API",
+  "test3": "Test 3",
+  "formTable": "Form & Table",
+  "moveShape": "Move Shape",
+  "movePosition": "Move Position",
+  "submit": "SUBMIT",
+  "reset": "RESET",
+  "delete": "DELETE",
+  "edit": "EDIT",
+  "home": "Home",
+    "title": "Title",
+  "firstname": "Firstname",
+  "lastname": "Lastname",
+  "birthday": "Birthday",
+  "nationality": "Nationality",
+  "citizenId": "Citizen ID",
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "unsex": "Unsex",
+  "mobilePhone": "Mobile Phone",
+  "passport": "Passport No",
+  "salary": "Expected Salary",
+  "title_mr": "Mr.",
+  "title_mrs": "Mrs.",
+  "title_ms": "Ms.",
+  "nationality_th": "Thai",
+  "nationality_us": "American",
+  "please_select": "Please Select",
+  "title_placeholder": "Title",
+  "date_placeholder": "YYYY/MM/DD",
+    "modal": {
+    "create_success_title": "Saved Successfully",
+    "create_success_content": "The new record has been created.",
+
+    "update_success_title": "Updated Successfully",
+    "update_success_content": "The record has been updated.",
+
+    "delete_confirm_title": "Confirm Deletion",
+    "delete_confirm_single": "Are you sure you want to delete this record?",
+    "delete_confirm_many": "Are you sure you want to delete {{count}} records?",
+
+    "delete_success_title": "Deleted Successfully",
+    "delete_success_content": "The record has been deleted.",
+
+    "ok": "OK",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "delete_all": "Delete All"
+  },
+    "table": {
+    "name": "Name",
+    "gender": "Gender",
+    "mobile": "Mobile Phone",
+    "nationality": "Nationality",
+    "manage": "Manage",
+    "edit": "Edit",
+    "delete": "Delete",
+    "select_all": "Select All"
+  },
+  "gender_table": {
+    "Male": "Male",
+    "Female": "Female",
+    "Unsex": "Unspecified"
+  },
+  "title_table": {
+    "Mr": "Mr",
+    "Mrs": "Mrs",
+    "Ms": "Ms"
+  },
+  "nationality_tabl":{
+    "Thai":"Thai",
+    "American":"American"
+  },
+    "validation": {
+    "salary_required": "Please enter salary",
+    "salary_number_only": "Numbers only",
+    "mobile_required": "Please enter mobile number",
+    "mobile_number_only": "Numbers only",
+    "passport_number_only": "Numbers only"
+  }
+}
